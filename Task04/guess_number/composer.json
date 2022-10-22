@@ -17,8 +17,8 @@
         "files": [
             "src/Controller.php",
             "src/View.php",
-	          "src/DataBase",
-	          "src/GameModel"
+	    "src/DataBase",
+	    "src/GameModel"
         ]
     }
 }
