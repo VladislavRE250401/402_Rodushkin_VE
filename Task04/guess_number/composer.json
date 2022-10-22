@@ -18,7 +18,7 @@
             "src/Controller.php",
             "src/View.php",
             "src/DataBase",
-            "GameModel"
+            "src/GameModel"
         ]
     }
 }
